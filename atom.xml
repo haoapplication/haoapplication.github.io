@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-30T02:09:49.494Z</updated>
+  <updated>2023-01-30T02:12:00.242Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>toefl</title>
+    <title>托福近期出分</title>
     <link href="http://example.com/2023/01/30/toefl/"/>
     <id>http://example.com/2023/01/30/toefl/</id>
     <published>2023-01-30T02:06:06.000Z</published>
-    <updated>2023-01-30T02:09:49.494Z</updated>
+    <updated>2023-01-30T02:12:00.242Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/2023/01/30/toefl/toefl1.png"></p><p><img src="/2023/01/30/toefl/toefl2.png"></p>]]></content>
     
