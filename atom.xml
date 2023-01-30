@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-01-30T02:08:17.040Z</updated>
+  <updated>2023-01-30T02:09:49.494Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://example.com/2023/01/30/toefl/"/>
     <id>http://example.com/2023/01/30/toefl/</id>
     <published>2023-01-30T02:06:06.000Z</published>
-    <updated>2023-01-30T02:08:17.040Z</updated>
+    <updated>2023-01-30T02:09:49.494Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/toefl1.png"></p><p><img src="/toefl2.png"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2023/01/30/toefl/toefl1.png"></p><p><img src="/2023/01/30/toefl/toefl2.png"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/toefl1.png&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/toefl2.png&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2023/01/30/toefl/toefl1.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/2023/01/30/toefl/toefl2.png&quot;&gt;&lt;/p&gt;
 </summary>
       
     
